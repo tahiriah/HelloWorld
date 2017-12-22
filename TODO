@@ -1,0 +1,4 @@
+- Create a docker file to start a postgresql server and populate the schema
+- Create a docker file to start a flask server
+- Create a docker file to start nginx reverse proxy
+
